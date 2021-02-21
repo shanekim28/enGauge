@@ -1,2 +1,3 @@
 /frontend/node_modules
 /api/stanford-corenlp-4.2.0
+/frontend/package-lock.json
